@@ -4,8 +4,11 @@
 # Compile
 Use Visual Studio 2022 to compile. <br>
 <br>
-Install YoutubeExplode from Nuget packages or from here:<br>
+Install YoutubeExplode from NuGet packages or from here:<br>
 https://github.com/Tyrrrz/YoutubeExplode<br>
+
+Install TaglibSharp from NuGet packages or from here:<br>
+https://github.com/mono/taglib-sharp<br>
 <br>
 # Usage
 Enter YouTube URL to text box and push "Extract Audio" button.<br>
