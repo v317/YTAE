@@ -1,6 +1,6 @@
-# YTAE
-YouTube Audio Extractor
-![FypQCTiWAAEqskY](https://github.com/v317/YTAE/assets/1490693/0a33fb74-6d9a-4490-90ae-26b34db3685d)
+# YTAE<br>
+YouTube Audio Extractor<br>
+![FypQCTiWAAEqskY](https://github.com/v317/YTAE/assets/1490693/0a33fb74-6d9a-4490-90ae-26b34db3685d)<br>
 <br>
 # Compile
 Use Visual Studio 2022 to compile. <br>
